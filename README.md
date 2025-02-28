@@ -1,7 +1,7 @@
 <br>
 <h2 align="center">Introduction</h2>
 
-<p align="center">Hi there! I'm Shyam, a final-year MAC student at Guru Nanak College with a deep interest in software engineering. I love working on innovative projects and learning new technologies.</p>
+<p align="center">Hi there! I'm Shyam, a final-year MAC student at Guru Nanak College with a deep interest in Web development. I love working on innovative projects and learning new technologies.</p>
 
 <br>
 <h2 align="center">Frequently Used Technologies</h2>
@@ -9,6 +9,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">  
   <img src="https://img.shields.io/badge/Python%20-%23E34F26.svg?&style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white">
   <!-- Add more technology badges as needed -->
 </div>
 

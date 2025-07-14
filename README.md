@@ -4,7 +4,7 @@
 <p align="center">Hi there! I'm Shyam, A recent MCA graduate with a strong Interest in Python, web development, DevOps tools, and cloud fundamentals. Passionate about continuous learning and Working with new tech.</p>
 
 <h1 align="center">My personal motto</h1>
-<i>Eat Good,Sleep Well,Learn More</i>
+<i align="center">Eat Good,Sleep Well,Learn More</i>
 
 <br>
 <h2 align="center">Frequently Used Technologies</h2>

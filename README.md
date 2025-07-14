@@ -1,28 +1,133 @@
-<br>
-<h2 align="center">Introduction</h2>
-
-<p align="center">Hi there! I'm Shyam, A recent MCA graduate with a strong Interest in Python, web development, DevOps tools, and cloud fundamentals. Passionate about continuous learning and Working with new tech.</p>
+# 👋 Hello, I'm Shyam!
 
 <div align="center">
-  <img control="Hidden" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=600&lines=MCA+Graduate+%7C+Python+Developer;Web+Developer+%7C+DevOps+Enthusiast;Cloud+Explorer+%7C+Continuous+Learner" alt="Typing SVG" />
 </div>
-
-<br>
-<h2 align="center">Frequently Used Technologies</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">  
-  <img src="https://img.shields.io/badge/Python%20-%23E34F26.svg?&style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white">
-  <!-- Add more technology badges as needed -->
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400" height="200" />
 </div>
 
-<br>
-<h2 align="center">Need to contact me? Reach out using the links below!</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/shyam-m-aa9026240"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <!-- Add more contact links if available -->
-</p>
-<i text-size="larger" align="center">Eat Good,Sleep Well,Learn More</i>
+---
+
+## 🚀 About Me
+
+```python
+class ShyamProfile:
+    def __init__(self):
+        self.name = "Shyam"
+        self.education = "MCA Graduate"
+        self.interests = ["Python", "Web Development", "DevOps", "Cloud Computing"]
+        self.motto = "Eat Good, Sleep Well, Learn More"
+        self.status = "Always learning something new! 🌱"
+    
+    def current_focus(self):
+        return "Building scalable applications and exploring cloud technologies"
+```
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</div>
+
+### 🌐 Frontend Development
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</div>
+
+### 🗄️ Database & Backend
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+</div>
+
+### ☁️ DevOps & Cloud
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🔭-Currently%20Working%20On-blue?style=for-the-badge"/>
+        <br/>
+        <sub>Full-stack web applications</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🌱-Currently%20Learning-green?style=for-the-badge"/>
+        <br/>
+        <sub>Kubernetes & Microservices</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/💬-Ask%20Me%20About-orange?style=for-the-badge"/>
+        <br/>
+        <sub>Python, React, DevOps</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/shyam-m-aa9026240">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <h3>💫 "Eat Good, Sleep Well, Learn More" 💫</h3>
+  <p><em>Always excited to collaborate on interesting projects and learn new technologies!</em></p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>

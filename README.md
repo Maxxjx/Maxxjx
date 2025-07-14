@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Shyam!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=600&lines=MCA+Graduate+%7C+Python+Developer;Web+Developer+%7C+DevOps+Enthusiast;Cloud+Explorer+%7C+Continuous+Learner" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width= "200px" height="250px" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=600&lines=MCA+Graduate+%7C+Python+Developer;Web+Developer+%7C+DevOps+Enthusiast;Cloud+Explorer+%7C+Continuous+Learner" alt="Typing SVG" />
 </div>
 
 ---
@@ -34,8 +34,6 @@ class ShyamProfile:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -81,21 +79,11 @@ class ShyamProfile:
   <a href="mailto:iamshyamssj@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</div>
-
----
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </div>
 
+---
 <div align="center">
   <h3>💫 "Eat Good, Sleep Well, Learn More" 💫</h3>
   <p><em>Always excited to collaborate on interesting projects and learn new technologies!</em></p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github.com/maxxjx/maxxjx/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>

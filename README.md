@@ -1,7 +1,10 @@
 <br>
 <h2 align="center">Introduction</h2>
 
-<p align="center">Hi there! I'm Shyam, a final-year MAC student at Guru Nanak College with a deep interest in Web development. I love working on innovative projects and learning new technologies.</p>
+<p align="center">Hi there! I'm Shyam, A recent MCA graduate with a strong Interest in Python, web development, DevOps tools, and cloud fundamentals. Passionate about continuous learning and Working with new tech.</p>
+
+<h1>My personal motto</h1>
+<b>Eat Good, Sleep Well,Learn More</b>
 
 <br>
 <h2 align="center">Frequently Used Technologies</h2>

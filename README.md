@@ -5,25 +5,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=600&lines=MCA+Graduate+%7C+Python+Developer;Web+Developer+%7C+DevOps+Enthusiast;Cloud+Explorer+%7C+Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=600&lines=Python+Developer;Web+Developer+%7C+DevOps+Enthusiast;Cloud+Explorer+%7C+Continuous+Learner" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-```python
-class ShyamProfile:
-    def __init__(self):
-        self.name = "Shyam"
-        self.education = "MCA Graduate"
-        self.interests = ["Python", "Web Development", "DevOps", "Cloud Computing"]
-        self.motto = "Eat Good, Sleep Well, Learn More"
-        self.status = "Always learning something new! 🌱"
-    
-    def current_focus(self):
-        return "Building scalable applications and exploring cloud technologies"
-```
+<p align="center">Hi there! I'm Shyam, A recent MCA graduate with a strong Interest in Python, web development, DevOps tools, and cloud fundamentals. Passionate about continuous learning and Working with new tech.</p>
 
 ---
 

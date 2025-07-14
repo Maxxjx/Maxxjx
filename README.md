@@ -4,7 +4,7 @@
 <p align="center">Hi there! I'm Shyam, A recent MCA graduate with a strong Interest in Python, web development, DevOps tools, and cloud fundamentals. Passionate about continuous learning and Working with new tech.</p>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img control="Hidden" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 <br>
